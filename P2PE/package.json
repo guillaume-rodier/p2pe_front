@@ -12,7 +12,7 @@
     "google-maps-react": "^2.0.2",
     "jwt-decode": "^2.2.0",
     "noble": "^1.9.1",
-    "node-sass": "4.6.1",
+    "node-sass": "4.13.1",
     "node-sass-chokidar": "0.0.3",
     "npm-run-all": "4.1.2",
     "react": "^16.2.0",
