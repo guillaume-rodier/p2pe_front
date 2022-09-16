@@ -7,7 +7,7 @@
     "aws-amplify": "^1.1.9",
     "aws-api-gateway-client": "^0.2.16",
     "aws-sdk": "^2.362.0",
-    "bootstrap": "3.3.7",
+    "bootstrap": "3.4.1",
     "chartist": "0.10.1",
     "google-maps-react": "^2.0.2",
     "jwt-decode": "^2.2.0",
